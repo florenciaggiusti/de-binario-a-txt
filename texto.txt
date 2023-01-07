@@ -1,0 +1,54 @@
+Medicion N°: 1____ Temperatura: 26.420000_______ nombre: maquina1
+Medicion N°: 2____ Temperatura: -4.160000_______ nombre: maquina1
+Medicion N°: 3____ Temperatura: 25.760000_______ nombre: maquina1
+Medicion N°: 4____ Temperatura: -10.320000_______ nombre: maquina1
+Medicion N°: 5____ Temperatura: 27.760000_______ nombre: maquina1
+Medicion N°: 6____ Temperatura: -30.120001_______ nombre: maquina1
+Medicion N°: 7____ Temperatura: -24.120001_______ nombre: maquina1
+Medicion N°: 8____ Temperatura: 14.450000_______ nombre: maquina1
+Medicion N°: 9____ Temperatura: 31.379999_______ nombre: maquina1
+Medicion N°: 10____ Temperatura: 31.910000_______ nombre: maquina1
+Medicion N°: 11____ Temperatura: 7.070000_______ nombre: maquina1
+Medicion N°: 12____ Temperatura: 3.160000_______ nombre: maquina1
+Medicion N°: 13____ Temperatura: -25.500000_______ nombre: maquina1
+Medicion N°: 14____ Temperatura: 6.450000_______ nombre: maquina1
+Medicion N°: 15____ Temperatura: -22.629999_______ nombre: maquina1
+Medicion N°: 16____ Temperatura: 39.900002_______ nombre: maquina1
+Medicion N°: 17____ Temperatura: 20.590000_______ nombre: maquina1
+Medicion N°: 18____ Temperatura: -3.780000_______ nombre: maquina1
+Medicion N°: 19____ Temperatura: -13.850000_______ nombre: maquina1
+Medicion N°: 20____ Temperatura: -9.110000_______ nombre: maquina1
+Medicion N°: 21____ Temperatura: -36.389999_______ nombre: maquina1
+Medicion N°: 22____ Temperatura: -27.850000_______ nombre: maquina1
+Medicion N°: 23____ Temperatura: 12.410000_______ nombre: maquina1
+Medicion N°: 24____ Temperatura: 26.520000_______ nombre: maquina1
+Medicion N°: 25____ Temperatura: 14.100000_______ nombre: maquina1
+Medicion N°: 26____ Temperatura: -38.950001_______ nombre: maquina1
+Medicion N°: 27____ Temperatura: 34.779999_______ nombre: maquina1
+Medicion N°: 28____ Temperatura: 37.770000_______ nombre: maquina1
+Medicion N°: 29____ Temperatura: -29.010000_______ nombre: maquina1
+Medicion N°: 30____ Temperatura: 35.930000_______ nombre: maquina1
+Medicion N°: 31____ Temperatura: 27.080000_______ nombre: maquina1
+Medicion N°: 32____ Temperatura: -22.209999_______ nombre: maquina1
+Medicion N°: 33____ Temperatura: 7.880000_______ nombre: maquina1
+Medicion N°: 34____ Temperatura: -27.059999_______ nombre: maquina1
+Medicion N°: 35____ Temperatura: -28.719999_______ nombre: maquina1
+Medicion N°: 36____ Temperatura: -11.920000_______ nombre: maquina1
+Medicion N°: 37____ Temperatura: -24.650000_______ nombre: maquina1
+Medicion N°: 38____ Temperatura: -10.290000_______ nombre: maquina1
+Medicion N°: 39____ Temperatura: -20.910000_______ nombre: maquina1
+Medicion N°: 40____ Temperatura: 0.280000_______ nombre: maquina1
+Medicion N°: 41____ Temperatura: -13.220000_______ nombre: maquina1
+Medicion N°: 42____ Temperatura: 1.960000_______ nombre: maquina1
+Medicion N°: 43____ Temperatura: 19.650000_______ nombre: maquina1
+Medicion N°: 44____ Temperatura: -21.260000_______ nombre: maquina1
+Medicion N°: 45____ Temperatura: -22.490000_______ nombre: maquina1
+Medicion N°: 46____ Temperatura: 13.520000_______ nombre: maquina1
+Medicion N°: 47____ Temperatura: 34.639999_______ nombre: maquina1
+Medicion N°: 48____ Temperatura: -12.340000_______ nombre: maquina1
+Medicion N°: 49____ Temperatura: -11.670000_______ nombre: maquina1
+Medicion N°: 50____ Temperatura: 32.810001_______ nombre: maquina1
+
+
+el promedio es 0.633000
+hay ingresados 50 datos
