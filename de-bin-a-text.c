@@ -1,10 +1,3 @@
-/**Florencia Gabriela Giusti
-DNI:42.341.987
-asignatura: EDA 1
-curso: MARTES 18 HS
-FECHA DE ENTREGA: SABADO 18 DE JUNIO
-**/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -158,7 +151,7 @@ void escribirArchivo(struct info *puntero, short cantidad)
              if(strcmp(ingrese,puntero[i].nom_maquina)==0)///aqui comparo dos strings
              {
                  cuantos++;
-                 fprintf(archivo1,"Medicion N°: %hd____ Temperatura: %2f_______ nombre: %s\n", puntero[i].med_num, puntero[i].temperatura, puntero[i].nom_maquina);///vector de estructuras guardado en un archivo txt
+                 fprintf(archivo1,"Medicion NÂ°: %hd____ Temperatura: %2f_______ nombre: %s\n", puntero[i].med_num, puntero[i].temperatura, puntero[i].nom_maquina);///vector de estructuras guardado en un archivo txt
                  suma+=puntero[i].temperatura;
              }
          }
